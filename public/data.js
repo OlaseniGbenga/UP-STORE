@@ -1,0 +1,88 @@
+let shopItemsData = [
+  {
+    id: "jfhgbvnscs",
+    name: "Leather Bag",
+    price: 45,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img1.jpg",
+  },
+  {
+    id: "ioytrhndcv",
+    name: "Nike Sneaker",
+    price: 100,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img2.jpg",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "Necklace",
+    price: 25,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img3.jpg",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "Bow Tie",
+    price: 300,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img4.jpg",
+  },
+  {
+    id: "thiecbawdjksadjk",
+    name: "T Shirt",
+    price: 25,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img5.jpg",
+  },
+  {
+    id: "iuertrywebncdjksadjk",
+    name: "Office Wear",
+    price: 200,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img6.jpg",
+  },
+  {
+    id: "thierytbvcbvzdhadjk",
+    name: "Lady Shoe",
+    price: 450,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img7.jpg",
+  },
+  {
+    id: "trfoiwfcnbcawdjksadjk",
+    name: "Pendant",
+    price: 45,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img8.jpg",
+  },
+  {
+    id: "cbvxbcvsceldk",
+    name: "Tie",
+    price: 85,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img9.jpg",
+  },
+  {
+    id: "oiopijmjkhuihb",
+    name: "Red Dress",
+    price: 120,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img10.jpg",
+  },
+  {
+    id: "oiopijewyiohbjhib",
+    name: "Boot",
+    price: 35,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img11.jpg",
+  },
+  {
+    id: "rtytytuyuytyytbvncv",
+    name: "School Bag",
+    price: 350,
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing.",
+    img: "images/img12.jpg",
+  },
+];
+
+
